@@ -412,7 +412,7 @@ table h4 {
   border-top: 4px solid #648880;
   padding: 40px 0 22px 0;
   float: left;
-  font-size: 48px;
+  font-size: 40px;
   font-weight: 100;
   letter-spacing: .5px;
   line-height: 44px;
@@ -427,6 +427,15 @@ table h4 {
   font-weight: 400;
   letter-spacing: .5px;
   text-transform: uppercase;
+}
+.banner-image {
+  height: 350px;
+  width: 100%;
+  overflow: hidden;
+}
+.banner-image img {
+  margin: -450px 0 0 0;
+
 }
 /*
   ========================================
@@ -478,7 +487,8 @@ table h4 {
 */
 
 .nav {
-  text-align: right;
+  text-align: center;
+  padding-bottom: 10px;
 }
 .nav li {
   display: inline-block;
