@@ -419,6 +419,7 @@ table h4 {
   text-transform: uppercase;
 }
 .tagline {
+  font-size: 25px;
   margin: 66px 0 22px 0;
   text-align: right;
 }
